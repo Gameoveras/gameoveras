@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sungu</h1>
 <h3 align="center">I am a full stack developer at asebay company.</h3>
+<h4>Anatabu</h4>
 <img width="150" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu">
-  
+  <h4>Tap Mania: Strike</h4>
+  <img width="150" src="https://i.hizliresim.com/q8p1eoa.png" alt="Tap Mania: Strike">
+
   <h3  align="left">Connect with me:</h3>
 <p align="left">
   

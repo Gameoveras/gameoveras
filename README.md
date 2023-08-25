@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sungu</h1>
 <h3 align="center">I am a full stack developer at asebay company.</h3>
-<img src="https://imgyukle.com/i/rFosDc">
+<a src="https://imgyukle.com/i/rFosDc"></a>
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">

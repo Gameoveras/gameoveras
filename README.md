@@ -2,7 +2,7 @@
 <h3 align="center">I am a full stack developer at asebay company.</h3>
 <img src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu">
   
-  <h3 width="100" align="left">Connect with me:</h3>
+  <h3 width="100" height="100" align="left">Connect with me:</h3>
 <p align="left">
   
 <a href="https://twitter.com/sunguerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunguerd" height="30" width="40" /></a>

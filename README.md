@@ -1,4 +1,4 @@
-# Merhaba! 👋
+# Hello! 👋
 
 Bu, Gameoveras adlı GitHub kullanıcısının popüler projelerini içeren `README.md` dosyasıdır.
 

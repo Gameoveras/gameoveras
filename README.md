@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sungu</h1>
 <h3 align="center">I am a full stack developer at asebay company.</h3>
-[url=https://hizliresim.com/5pe3lwh][img]https://i.hizliresim.com/5pe3lwh.png[/img][/url]
-<h3 align="left">Connect with me:</h3>
+<img src="https://hizliresim.com/5pe3lwh.png">
+  
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
   
 <a href="https://twitter.com/sunguerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunguerd" height="30" width="40" /></a>

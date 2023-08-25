@@ -8,13 +8,13 @@
             <td>
                 <div class="project">
                     <h3>Project Name: Anatabu</h3>
-                    <img center width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
+                    <center><img  width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot"></center>
                 </div>
             </td>
             <td>
                 <div class="project">
                     <h3>Project Name: Tap Mania</h3>
-                    <img center width="110" src="https://i.hizliresim.com/q8p1eoa.png" alt="Tap Mania Screenshot">
+                    <center><img  width="110" src="https://i.hizliresim.com/q8p1eoa.png" alt="Tap Mania Screenshot"></center>
                 </div>
             </td>
         </tr>

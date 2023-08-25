@@ -1,20 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sungu</h1>
 <h3 align="center">I am a full stack developer at asebay company.</h3>
 
-<table>
-  <thead>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Anatabu</td>
-      <td><img width="150" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu"></td>
-    </tr>
-    <tr>
-      <td>Tap Mania: Strike</td>
-      <td><img width="150" src="https://i.hizliresim.com/q8p1eoa.png" alt="Tap Mania: Strike"></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+    <h2>My Project</h2>
+    <table border="3">
+        <tr>
+            <td>
+                <div class="project">
+                    <h3>Project Name: Anatabu</h3>
+                    <img width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
+                </div>
+            </td>
+            <td>
+                <div class="project">
+                    <h3>Project Name: Tap Mania</h3>
+                    <img width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Tap Mania Screenshot">
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
 
   <h3  align="left">Connect with me:</h3>
 <p align="left">
